@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="Braian Valenzuela" width="100%"/>
-
 <a href="https://github.com/braianvalenzuela">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Braian+%F0%9F%91%8B;Estudiante+de+An%C3%A1lisis+de+Sistemas;Desarrollo+web+y+de+software;Siempre+aprendiendo+algo+nuevo" alt="typing"/>
 </a>
