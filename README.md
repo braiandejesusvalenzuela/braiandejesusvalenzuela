@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="banner.svg" alt="Braian Valenzuela" width="100%"/>
+<img src="assets/banner.svg" alt="Braian Valenzuela" width="100%"/>
 
-<img src="tagline.svg" alt="Hola, soy Braian.
-  Estudiante de Análisis de Sistemas.
-  Desarrollo Web y de Software. Siempre aprendiendo nuevas Tecnologías." width="100%"/>
+<img src="assets/tagline.svg" alt="Hola, soy Braian. Estudiante de Análisis de Sistemas. Desarrollo Web y de Software. Siempre aprendiendo nuevas Tecnologías." width="100%"/>
 
 <br/><br/>
 
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
-<img src="btn-gmail.svg" alt="Gmail" width="260"/>
+<img src="assets/btn-gmail.svg" alt="Gmail" width="260"/>
 </a>
 <a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
-<img src="btn-linkedin.svg" alt="LinkedIn" width="260"/>
+<img src="assets/btn-linkedin.svg" alt="LinkedIn" width="260"/>
 </a>
 <a href="https://braiandejesusvalenzuela.netlify.app/">
-<img src="btn-portfolio.svg" alt="Portfolio" width="260"/>
+<img src="assets/btn-portfolio.svg" alt="Portfolio" width="260"/>
 </a>
 
 <br/><br/>
@@ -24,23 +22,23 @@
 
 <br/><br/>
 
-<img src="sobre-mi.svg" alt="Sobre mí: Estudiante de la Tecnicatura Superior en Análisis de Sistemas, enfocado en el desarrollo de software, desarrollo web y resolución de problemas mediante herramientas tecnológicas." width="100%"/>
+<img src="assets/sobre-mi.svg" alt="Sobre mí: Estudiante de la Tecnicatura Superior en Análisis de Sistemas, enfocado en el desarrollo de software, desarrollo web y resolución de problemas mediante herramientas tecnológicas." width="100%"/>
 
 <br/>
 
-<img src="formacion.svg" alt="Formación: Tecnicatura Superior en Análisis de Sistemas (IFTS N.º 21, en curso, 2.º año). Udemy: SAP e Inglés. UTN: Microsoft Office (Excel, Word y PowerPoint)." width="100%"/>
+<img src="assets/formacion.svg" alt="Formación: Tecnicatura Superior en Análisis de Sistemas (IFTS N.º 21, en curso, 2.º año). Udemy: SAP e Inglés. UTN: Microsoft Office (Excel, Word y PowerPoint)." width="100%"/>
 
 <br/>
 
-<img src="stack.svg" alt="Tecnologías. Frontend: Angular, HTML5, CSS3, JavaScript, TypeScript. Backend: Node.js, Python, PHP, COBOL, AI. Sistemas empresariales (ERP): SAP. Bases de datos: PostgreSQL, MySQL, Oracle, IBM DB2. Gestión de proyectos: Trello, Jira, ProjectLibre. Entornos: Git, GitHub, Visual Studio Code, PyCharm." width="100%"/>
+<img src="assets/stack.svg" alt="Tecnologías. Frontend: Angular, HTML5, CSS3, JavaScript, TypeScript. Backend: Node.js, Python, PHP, COBOL, AI. Sistemas empresariales (ERP): SAP. Bases de datos: PostgreSQL, MySQL, Oracle, IBM DB2. Gestión de proyectos: Trello, Jira, ProjectLibre. Entornos: Git, GitHub, Visual Studio Code, PyCharm." width="100%"/>
 
 <br/>
 
-<img src="experiencia.svg" alt="Experiencia práctica: proyectos personales, proyectos académicos y un proyecto colaborativo para una aplicación web con impacto social." width="100%"/>
+<img src="assets/experiencia.svg" alt="Experiencia práctica: proyectos personales, proyectos académicos y un proyecto colaborativo para una aplicación web con impacto social." width="100%"/>
 
 <br/>
 
-<img src="numeros.svg" alt="Mis números en GitHub" width="100%"/>
+<img src="assets/numeros.svg" alt="Mis números en GitHub" width="100%"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=braianvalenzuela&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braianvalenzuela&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="lenguajes"/>
