@@ -110,5 +110,3 @@ mediante herramientas tecnológicas.
 </div>
 
 ---
-
-width="100%" alt="footer"/>
