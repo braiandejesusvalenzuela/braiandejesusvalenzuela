@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Braian Valenzuela" width="100%"/>
+<img src="assets/banner.svg" alt="Braian Valenzuela, estudiante de Análisis de Sistemas" width="100%"/>
 
 <img src="assets/tagline.svg" alt="Hola, soy Braian. Estudiante de Análisis de Sistemas. Desarrollo Web y de Software. Siempre aprendiendo nuevas Tecnologías." width="100%"/>
 
