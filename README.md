@@ -30,7 +30,7 @@
 
 <br/>
 
-<img src="stack.svg" alt="Stack tecnológico: HTML5, CSS3, Python, Angular, SQL Server, MySQL, Figma, Jira, Git, GitHub y GitLab." width="100%"/>
+<img src="stack.svg" alt="Tecnologías. Frontend: Angular, HTML5, CSS3, JavaScript, TypeScript. Backend: Node.js, Python, PHP, COBOL, AI. Sistemas empresariales (ERP): SAP. Bases de datos: PostgreSQL, MySQL, Oracle, IBM DB2. Gestión de proyectos: Trello, Jira, ProjectLibre. Entornos: Git, GitHub, Visual Studio Code, PyCharm." width="100%"/>
 
 <br/>
 
