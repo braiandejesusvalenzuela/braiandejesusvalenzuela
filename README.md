@@ -13,7 +13,7 @@
 <img src="assets/btn-linkedin.svg" alt="LinkedIn" width="260"/>
 </a>
 <a href="https://braiandejesusvalenzuela.netlify.app/">
-<img src="assets/btn-portfolio.svg" alt="Portfolio" width="260"/>
+<img src="assets/btn-portfolio.svg" alt="Porfolio" width="260"/>
 </a>
 
 <br/><br/>
