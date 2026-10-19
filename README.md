@@ -1,10 +1,8 @@
-<img src="banner.svg" alt="Braian Valenzuela" width="100%"/>
-
 <div align="center">
 
-<a href="https://github.com/braianvalenzuela">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Braian+%F0%9F%91%8B;Estudiante+de+An%C3%A1lisis+de+Sistemas;Desarrollo+web+y+de+software;Siempre+aprendiendo+algo+nuevo" alt="typing"/>
-</a>
+<img src="banner.svg" alt="Braian Valenzuela" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=6C63FF&center=true&vCenter=true&width=1180&height=60&lines=Hola%2C+soy+Braian+%F0%9F%91%8B;Estudiante+de+An%C3%A1lisis+de+Sistemas+%F0%9F%8E%93;Desarrollo+Web+y+de+Software+%E2%9A%99%EF%B8%8F;Siempre+aprendiendo+nuevas+Tecnolog%C3%ADas+%F0%9F%92%BB" alt="typing" width="100%"/>
 
 <br/><br/>
 
@@ -23,7 +21,6 @@
 <img src="https://komarev.com/ghpvc/?username=braianvalenzuela&style=flat&color=6C63FF&label=profile+views"/>
 
 </div>
-
 ---
 
 <h2>👨‍💻 Sobre mí</h2>
