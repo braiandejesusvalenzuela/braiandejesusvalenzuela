@@ -2,18 +2,18 @@
 
 <img src="banner.svg" alt="Braian Valenzuela" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=6C63FF&center=true&vCenter=true&width=1180&height=60&lines=Hola%2C+soy+Braian+%F0%9F%91%8B;Estudiante+de+An%C3%A1lisis+de+Sistemas+%F0%9F%8E%93;Desarrollo+Web+y+de+Software+%E2%9A%99%EF%B8%8F;Siempre+aprendiendo+nuevas+Tecnolog%C3%ADas+%F0%9F%92%BB" alt="typing" width="100%"/>
+<img src="tagline.svg" alt="Hola, soy Braian. Estudiante de Análisis de Sistemas. Desarrollo Web y de Software. Siempre aprendiendo nuevas Tecnologías." width="100%"/>
 
 <br/><br/>
 
 <a href="mailto:braiandejesusvalenzuela@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="btn-gmail.svg" alt="Gmail" width="260"/>
 </a>
 <a href="https://www.linkedin.com/in/braian-valenzuela-dejesus">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="btn-linkedin.svg" alt="LinkedIn" width="260"/>
 </a>
 <a href="https://braiandejesusvalenzuela.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="btn-portfolio.svg" alt="Portfolio" width="260"/>
 </a>
 
 <br/><br/>
