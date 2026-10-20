@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v3.svg" alt="Braian Valenzuela, estudiante de Análisis de Sistemas" width="100%"/>
+<img src="assets/banner-v4.svg" alt="Braian De Jesús Valenzuela, argentino, estudiante de Análisis de Sistemas" width="100%"/>
 
 <img src="assets/tagline-v2.svg" alt="Hola, soy Braian. Estudiante de Análisis de Sistemas. Desarrollo Web y de Software. Siempre aprendiendo nuevas Tecnologías." width="100%"/>
 
