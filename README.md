@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v4.svg" alt="Braian De Jesús Valenzuela, argentino, estudiante de Análisis de Sistemas" width="100%"/>
+<img src="assets/banner-v5.svg" alt="Braian De Jesús Valenzuela, argentino, estudiante de Análisis de Sistemas" width="100%"/>
 
 <img src="assets/tagline-v2.svg" alt="Hola, soy Braian. Estudiante de Análisis de Sistemas. Desarrollo Web y de Software. Siempre aprendiendo nuevas Tecnologías." width="100%"/>
 
@@ -13,7 +13,7 @@
 <img src="assets/btn-linkedin-v2.svg" alt="LinkedIn" width="260"/>
 </a>
 <a href="https://braiandejesusvalenzuela.netlify.app/">
-<img src="assets/btn-portfolio-v2.svg" alt="Porfolio" width="260"/>
+<img src="assets/btn-portfolio-v3.svg" alt="Porfolio" width="260"/>
 </a>
 
 <br/><br/>
