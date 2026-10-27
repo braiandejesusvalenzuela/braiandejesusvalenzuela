@@ -38,6 +38,12 @@
 
 <br/>
 
+<a href="https://github.com/braianvalenzuela/conandoydle">
+<img src="assets/proyecto-conandoydle-v1.svg" alt="Proyecto Conandoydle: juego interactivo por consola inspirado en Wordle, hecho en Python con Visual Studio Code. Proyecto grupal académico. Ver repositorio." width="100%"/>
+</a>
+
+<br/>
+
 <img src="assets/numeros-v2.svg" alt="Mis números en GitHub" width="100%"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=braianvalenzuela&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats"/>
